@@ -1,0 +1,12 @@
+Algoritmo de Verificación y Difusión Responsable
+Rastreo de la fuente original: No te detengas en el titular o el pantallazo. Identifica quién generó la información (un medio de comunicación, un organismo oficial o un autor técnico) y busca el enlace primario.
+
+Evaluación de la autoridad y fecha: Comprueba las credenciales del autor y la vigencia del contenido. En áreas técnicas o legales, una información de hace dos años puede estar obsoleta debido a nuevas normativas o actualizaciones.
+
+Triangulación de datos: Aplica el principio de "consenso". Busca la misma noticia o dato en al menos otras dos fuentes independientes y confiables para confirmar que los hechos coinciden.
+
+Análisis de sesgo y tono: Detecta si el lenguaje es excesivamente emocional, alarmista o si busca generar una reacción inmediata (clickbait). La información confiable suele mantener un tono neutral y basado en evidencias.
+
+Validación de evidencias multimedia: Si la información incluye fotos o videos, verifica que no estén sacados de contexto o manipulados. Puedes usar la búsqueda inversa de imágenes para ver su origen real.
+
+Difusión con contexto: Una vez confirmada la veracidad, comparte la información añadiendo una breve explicación o fuente, facilitando que otros también puedan verificarla.

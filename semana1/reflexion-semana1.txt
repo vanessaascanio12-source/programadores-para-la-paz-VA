@@ -1,0 +1,9 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?La relación entre estos tres pilares se resume en una palabra: Trazabilidad.
+
+Uso responsable de la información: Es el filtro ético. Asegura que lo que aportamos al ecosistema (ya sea un dato o una línea de código) sea veraz y no dañino.
+
+Participación ciudadana: Es el motor de cambio. Representa el derecho y la acción de intervenir en proyectos que afectan a la comunidad, desde mejorar una ley hasta auditar un software público.
+
+Git: Es la infraestructura técnica. Proporciona el orden necesario para que esa participación masiva no sea un caos, permitiendo que cada aporte sea registrado, revisado y, si es valioso, integrado al bien común.
+
+En esencia, el uso responsable garantiza la calidad, la participación garantiza la democracia y Git garantiza el orden.
