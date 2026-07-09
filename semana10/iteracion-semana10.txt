@@ -1,0 +1,7 @@
+Las dos primeras tareas que realizaría serían registrar una incidencia y recibir una alerta en Telegram, porque permiten comenzar el funcionamiento básico de la plataforma y facilitar el seguimiento de los reportes.
+
+Para mí una tarea está terminada cuando:
+
+1. Funciona correctamente.
+2. Fue probada sin errores.
+3. Quedó registrada y guardada en Git.
